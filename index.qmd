@@ -15,7 +15,7 @@ about:
       url: mailto:evanlum025@gmail.com
     - icon: link
       text: Resume
-      href: "Evan_Lum_Resume.pdf"
+      url: https://drive.google.com/file/d/1Zrag8e_vRjFDrcmc77FGV_4vaObW7R4p/view?usp=sharing
 ---
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
@@ -24,12 +24,16 @@ Download [My CV](Evan_Lum_Resume.pdf)
 
 ## Education
 
-University of California, Los Angeles \| B.S in Statistics and Data Science \| Aug 2023 - June 2025
+**University of California, Los Angeles**
 
-San Francisco Community College \| Associate's in Data Science \| Aug 2021 - June 2023
+B.S in Statistics and Data Science \| Aug 2023 - June 2025
+
+**San Francisco Community College**
+
+Associate's in Data Science \| Aug 2021 - June 2023
 
 ## Experience
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
+**Barista** \| ONE65 San Francisco \| Aug 2021 - Aug 2023
 
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+**Barista** \| Teaspoon \| Jun 2020 - Aug 2021
