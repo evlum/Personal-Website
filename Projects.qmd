@@ -1,8 +1,5 @@
 ---
 title: "Projects"
-format:
-  html:
-    toc: true
 ---
 
 ## [Popularity Trends Within the WNBA\| June 2024 ](https://airlineaccidents.humspace.ucla.edu/)
@@ -19,7 +16,7 @@ format:
 
 -   ASFasf
 
-## a
+## [Solar Radiation Prediction](https://drive.google.com/file/d/1F1VWTd693YH_UbKkIcEfy5DBxYP24fs3/view?usp=sharing)
 
 -   Developed a multiple linear regression model to predict daily average solar radiation in Hawaii using meteorological
     data, incorporating variables such as temperature, humidity, pressure, and wind speed
