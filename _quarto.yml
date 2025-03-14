@@ -3,7 +3,7 @@ project:
 
 website:
   title: Evan Lum
-    navbar:
+  navbar:
     left:
       - href: index.qmd
         text: Testerrrr
