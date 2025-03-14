@@ -15,7 +15,7 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-    background: "#3F352E"
+    foreground: "#3F352E"
 
 editor: visual
 
