@@ -1,6 +1,26 @@
 ---
 title: "Projects"
-listing:
-  contents: 
-    - "projects/*qmd"
 ---
+
+## [Popularity Trends Within the WNBA\| June 2024 ](https://airlineaccidents.humspace.ucla.edu/)
+
+-   Analyzed societal attitudes toward gender in sports, comparing the WNBA and NBA through metrics like
+    attendance, viewership, and audience demographics, while emphasizing the cultural and humanistic factors driving
+    these trends
+
+-   Utilized original data from the WNBA to evaluate growth trends, media portrayal, and revenue disparities, offering
+    actionable insights to promote equity and visibility for women’s basketball
+
+-   Created and interpreted visual data representations, including choropleth maps and trend graphs, to highlight
+    disparities in participation and audience engagement across genders in youth and professional sports.
+
+## \[Solar Radiation Prediction\](<https://drive.google.com/file/d/1FVrWTd693YH_UbKdlcEfy50BxVP24is3/view?usp=sharing>)
+
+-   Developed a multiple linear regression model to predict daily average solar radiation in Hawaii using meteorological
+    data, incorporating variables such as temperature, humidity, pressure, and wind speed
+
+-   Applied advanced statistical techniques, including Box-Cox power transformation and multicollinearity testing, to
+    optimize the model and meet linear regression assumptions
+
+-   Conducted diagnostic analyses using residual and leverage plots to identify outliers and evaluate model
+    assumptions, ensuring robustness and reliability
