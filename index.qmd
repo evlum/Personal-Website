@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 about:
-  template: broadside
+  template: trestles
   image: pfp.jpg
   links:
     - icon: linkedin
@@ -18,7 +18,7 @@ about:
       url: https://drive.google.com/file/d/1Zrag8e_vRjFDrcmc77FGV_4vaObW7R4p/view?usp=sharing
 ---
 
-Hello, My name is Evan and I'm currently a fourth-year undergraduate student studying statistics and data science at UCLA. I've always been fascinated by optimization, constantly seeking ways to enchance even the smallest aspects of my routine, from my workouts to everyday tasks. The power of statistics has sharpened my ability to make many improvements, inspiring me to pursue a career in the field.
+Hello, My name is Evan and I'm currently a fourth-year undergraduate student studying statistics and data science at UCLA. I've always been fascinated by optimization, constantly seeking ways to enchance even the smallest aspects of my routine, from video games to my workouts to everyday tasks. The power of statistics has sharpened my ability to make many improvements, inspiring me to pursue a career in the field.
 
 ## Education
 
