@@ -2,9 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Evan Lum",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nDownload My CV"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Evan Lum",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | B.S in Statistics and Data Science | Aug 2023 - June 2025\nSan Francisco Community College | Associate’s in Data Science | Aug 2021 - June 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Evan Lum",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
     "objectID": "about.html",
