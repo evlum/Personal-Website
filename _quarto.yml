@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
-  title: Evan Lum
+  title: "Personal Website"
   navbar:
     left:
       - href: index.qmd
-        text: Testerrrr
+        text: Home
       - about.qmd
 
 format:
@@ -17,3 +17,5 @@ format:
 
 editor: visual
 
+execute:
+  freeze: auto 
