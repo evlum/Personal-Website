@@ -82,5 +82,33 @@
     "title": "Projects",
     "section": "[Solar Radiation Prediction] (https://drive.google.com/file/d/1FVrWTd693YH_UbKdlcEfy50BxVP24is3/view?usp=sharing)",
     "text": "[Solar Radiation Prediction] (https://drive.google.com/file/d/1FVrWTd693YH_UbKdlcEfy50BxVP24is3/view?usp=sharing)\n\nDeveloped a multiple linear regression model to predict daily average solar radiation in Hawaii using meteorological data, incorporating variables such as temperature, humidity, pressure, and wind speed\nApplied advanced statistical techniques, including Box-Cox power transformation and multicollinearity testing, to optimize the model and meet linear regression assumptions\nConducted diagnostic analyses using residual and leverage plots to identify outliers and evaluate model assumptions, ensuring robustness and reliability"
+  },
+  {
+    "objectID": "Projects.html#solar-radiation-prediction",
+    "href": "Projects.html#solar-radiation-prediction",
+    "title": "Projects",
+    "section": "Solar Radiation Prediction",
+    "text": "Solar Radiation Prediction\n\nDeveloped a multiple linear regression model to predict daily average solar radiation in Hawaii using meteorological data, incorporating variables such as temperature, humidity, pressure, and wind speed\nApplied advanced statistical techniques, including Box-Cox power transformation and multicollinearity testing, to optimize the model and meet linear regression assumptions\nConducted diagnostic analyses using residual and leverage plots to identify outliers and evaluate model assumptions, ensuring robustness and reliability"
+  },
+  {
+    "objectID": "Projects.html#tester",
+    "href": "Projects.html#tester",
+    "title": "Projects",
+    "section": "Tester",
+    "text": "Tester\n\nDeveloped a multiple linear regression model to predict daily average solar radiation in Hawaii using meteorological data, incorporating variables such as temperature, humidity, pressure, and wind speed\nApplied advanced statistical techniques, including Box-Cox power transformation and multicollinearity testing, to optimize the model and meet linear regression assumptions\nConducted diagnostic analyses using residual and leverage plots to identify outliers and evaluate model assumptions, ensuring robustness and reliability"
+  },
+  {
+    "objectID": "Projects.html#solar-radition-prediction",
+    "href": "Projects.html#solar-radition-prediction",
+    "title": "Projects",
+    "section": "Solar Radition Prediction",
+    "text": "Solar Radition Prediction\n\nDeveloped a multiple linear regression model to predict daily average solar radiation in Hawaii using meteorological data, incorporating variables such as temperature, humidity, pressure, and wind speed\nApplied advanced statistical techniques, including Box-Cox power transformation and multicollinearity testing, to optimize the model and meet linear regression assumptions\nConducted diagnostic analyses using residual and leverage plots to identify outliers and evaluate model assumptions, ensuring robustness and reliability"
+  },
+  {
+    "objectID": "Projects.html#a",
+    "href": "Projects.html#a",
+    "title": "Projects",
+    "section": "a",
+    "text": "a\n\nDeveloped a multiple linear regression model to predict daily average solar radiation in Hawaii using meteorological data, incorporating variables such as temperature, humidity, pressure, and wind speed\nApplied advanced statistical techniques, including Box-Cox power transformation and multicollinearity testing, to optimize the model and meet linear regression assumptions\nConducted diagnostic analyses using residual and leverage plots to identify outliers and evaluate model assumptions, ensuring robustness and reliability"
   }
 ]

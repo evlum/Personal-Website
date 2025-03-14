@@ -1,5 +1,8 @@
 ---
 title: "Projects"
+format:
+  html:
+    toc: true
 ---
 
 ## [Popularity Trends Within the WNBA\| June 2024 ](https://airlineaccidents.humspace.ucla.edu/)
@@ -14,7 +17,9 @@ title: "Projects"
 -   Created and interpreted visual data representations, including choropleth maps and trend graphs, to highlight
     disparities in participation and audience engagement across genders in youth and professional sports.
 
-## [Solar Radiation Prediction](https://drive.google.com/file/d/1F1VWTd693YH_UbKkIcEfy5DBxYP24fs3/view?usp=sharing)
+-   ASFasf
+
+## a
 
 -   Developed a multiple linear regression model to predict daily average solar radiation in Hawaii using meteorological
     data, incorporating variables such as temperature, humidity, pressure, and wind speed
