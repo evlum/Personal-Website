@@ -1,8 +1,8 @@
 ---
-title: "Evan Lum"
+title: "About Me"
 about:
   template: broadside
-  image: test.png
+  image: pfp.jpg
   links:
     - icon: linkedin
       text: linkedin
@@ -18,9 +18,7 @@ about:
       url: https://drive.google.com/file/d/1Zrag8e_vRjFDrcmc77FGV_4vaObW7R4p/view?usp=sharing
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
-
-Download [My CV](Evan_Lum_Resume.pdf)
+Hello, My name is Evan and I'm currently a fourth-year undergraduate student studying statistics and data science at UCLA. I've always been fascinated by optimization, constantly seeking ways to enchance even the smallest aspects of my routine, from my workouts to everyday tasks. The power of statistics has sharpened my ability to make many improvements, inspiring me to pursue a career in the field.
 
 ## Education
 
