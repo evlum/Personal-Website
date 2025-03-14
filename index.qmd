@@ -10,8 +10,12 @@ about:
     - icon: github
       text: Github
       href: https://github.com/evlum
-    - text: Email
+    - icon: mailbox
+      text: Email
       url: mailto:evanlum025@gmail.com
+    - icon: link
+      text: Resume
+      url: (/Evan_Lum_Resume.pdf)
 ---
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
