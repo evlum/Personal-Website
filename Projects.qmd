@@ -4,5 +4,3 @@ listing:
   contents: 
     - "projects/*qmd"
 ---
-
-[project](\projects/Solar Radiation.qmd)

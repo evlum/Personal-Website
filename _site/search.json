@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Solar Radiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWNBA Trends\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Evan Lum",
@@ -28,17 +35,17 @@
     "text": "Experience\nBarista | ONE65 San Francisco | Aug 2021 - Aug 2023\nBarista | Teaspoon | Jun 2020 - Aug 2021"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects/WNBA Trends.html",
+    "href": "projects/WNBA Trends.html",
+    "title": "WNBA Trends",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Test teste"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
+    "objectID": "projects/Solar Radiation.html",
+    "href": "projects/Solar Radiation.html",
+    "title": "Solar Radiation",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Test teste"
   }
 ]
