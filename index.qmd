@@ -18,7 +18,7 @@ about:
       url: https://drive.google.com/file/d/1Zrag8e_vRjFDrcmc77FGV_4vaObW7R4p/view?usp=sharing
 ---
 
-## About me
+## About Me 
 
 Hello, My name is Evan and I'm currently a fourth-year undergraduate student studying statistics and data science at UCLA.
 

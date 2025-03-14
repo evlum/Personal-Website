@@ -7,7 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Projects.qmd
+    background: "#558957"
 
 format:
   html:
@@ -15,7 +16,8 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-    foreground: "#3F352E"
+    backgroundcolor: "#E8DDBE"
+    fontcolor: "#1A1A1A"
 
 editor: visual
 
